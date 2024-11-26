@@ -1,5 +1,6 @@
 # GEval
 ---
+Medium: https://medium.com/@ag6907214/geval-an-ai-powered-web-application-for-project-code-evaluation-7d16a5250dff
 
 GEval-An Google AI Powered Web Application for Project Code Evaluation
 Problem Statement
