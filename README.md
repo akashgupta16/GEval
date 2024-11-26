@@ -146,7 +146,6 @@ To ensure the application scales with the competition's needs, it's deployed on 
 Reponsive Application Design:️
 Login/SignUpMenuLive DEMO
 
----
 
 Future Enhancements
 📝 Past Evaluations Memory: Store and display previously evaluated repositories upon user login.
